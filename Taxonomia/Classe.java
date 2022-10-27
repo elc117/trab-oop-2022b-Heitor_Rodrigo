@@ -3,7 +3,7 @@
 
 
 
-public class Classe extends Reino {
+public class Classe extends Filo {
     
     protected Classe(String desc){
         super(desc);

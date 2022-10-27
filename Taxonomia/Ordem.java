@@ -3,7 +3,7 @@
 
 
 
-public class Ordem extends Reino {
+public class Ordem extends Classe {
     
     protected Ordem(String desc){
         super(desc);

@@ -8,13 +8,13 @@ public class Taxonomia {
 
         // - Criando novos objetos de Seres Vivos
         SerVivo homo = new SerVivo("Homem", "Animalia", "Chordata", "Mammalia",
-        "Primata", "Hominidae", "Homo", "Homo sapiens");
+        "Primata", "Hominidae", "Homo", "sapiens");
 
         SerVivo cao = new SerVivo("Cão", "Animalia", "Chordata", "Mammalia",
-        "Carnívora", "Canidae", "Canis", "Canis familiaris");
+        "Carnívora", "Canidae", "Canis", "familiaris");
 
         SerVivo mosca = new SerVivo("Mosca", "Animalia", "Arthropoda",
-        "Insecta", "Díptera", "Muscidae", "Musca", "Musca domestica");
+        "Insecta", "Díptera", "Muscidae", "Musca", "domestica");
 
         // - Criando uma instância das informações da Cadeia dos Seres Vivos
         CadeiaDescription serVivo = new CadeiaDescription();

@@ -3,7 +3,7 @@
 
 
 
-public class Genero extends Reino {
+public class Genero extends Familia {
     
     protected Genero(String desc){
         super(desc);
